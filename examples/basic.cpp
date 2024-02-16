@@ -1,6 +1,6 @@
 #include <MeOrion.h>
 
-/* Creates two instances of the MeDCMotor class and initialize them with pins M1 and M2 */
+/* Creates two instances of the MeDCMotor class and initialize them with pins M1 and M2! */
 MeDCMotor motor1(M1);
 MeDCMotor motor2(M2);
 
